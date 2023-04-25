@@ -23,7 +23,7 @@ def cuttable(word_dict, word):
         
 
 def main():
-    filename = "./words.txt"
+    filename = "./lab-2/sublab-4/words.txt"
     my_word_dict = Input_word_list(filename)
     # print(word_dict)
     longest=''
