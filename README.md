@@ -18,10 +18,7 @@
 
 ```
 ├──lab-[#number]
-|  ├── sublab-1
-|  ├── sublab-2
-|  ├── sublab-3
-|  └── sublab-4
+|  ├── sublab-[#number]
 └──sec-seminar
 ```
 
